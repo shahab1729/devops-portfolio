@@ -1,4 +1,4 @@
-# Shahab Shaikh | DevOps Engineer Portfolio
+# 🚀 Shahab Shaikh | DevOps Engineer Portfolio
 
 Welcome to my personal DevOps portfolio and interactive web application! I am an aspiring DevOps Engineer passionate about infrastructure automation, containerization, cloud systems management (AWS), and building reliable CI/CD deployment pipelines.
 
@@ -6,6 +6,7 @@ Welcome to my personal DevOps portfolio and interactive web application! I am an
 
 ## 👤 About Me
 
+- 🔗 **Live Portfolio**: [shahab1729.github.io/devops-portfolio](https://shahab1729.github.io/devops-portfolio/)
 - 💻 **Role**: Aspiring DevOps Engineer
 - 🎯 **Current Focus**: Linux • Bash • Networking • Git • Docker (hands-on so far, learning AWS & CI/CD next)
 - 📍 **Location**: Remote / Open to Relocation
@@ -31,7 +32,7 @@ Welcome to my personal DevOps portfolio and interactive web application! I am an
 
 ## 🧪 Featured Hands-on Labs & Projects
 
->  I'm currently building out my hands-on projects and will add them here as they're completed. Check back soon!
+> 🚧 I'm currently building out my hands-on projects and will add them here as they're completed. Check back soon!
 
 ---
 
