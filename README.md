@@ -58,31 +58,6 @@ This repository houses the source code for my interactive DevOps portfolio web a
 - **GitHub Activity Feed**: Real-time project commits and contribution stats showcase.
 - **Automated Deployment**: GitHub Actions pipeline automatically builds and deploys updates to GitHub Pages on every push to `main`.
 
-### 🚀 Local Development Setup
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/shahab1729/devops-portfolio.git
-   cd devops-portfolio
-   ```
-
-2. **Install Dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start Development Server**
-   ```bash
-   npm run dev
-   ```
-   Open `http://localhost:5173` in your browser.
-
-4. **Build for Production**
-   ```bash
-   npm run build
-   ```
-
----
 
 ## 📫 Connect With Me
 
