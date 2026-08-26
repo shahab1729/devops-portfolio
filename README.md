@@ -1,4 +1,4 @@
-# 🚀 Shahab Shaikh | DevOps Engineer Portfolio
+# Shahab Shaikh | DevOps Engineer Portfolio
 
 Welcome to my personal DevOps portfolio and interactive web application! I am an aspiring DevOps Engineer passionate about infrastructure automation, containerization, cloud systems management (AWS), and building reliable CI/CD deployment pipelines.
 
@@ -7,7 +7,7 @@ Welcome to my personal DevOps portfolio and interactive web application! I am an
 ## 👤 About Me
 
 - 💻 **Role**: Aspiring DevOps Engineer
-- 🎯 **Current Focus**: Linux • Docker • AWS • CI/CD Pipelines
+- 🎯 **Current Focus**: Linux • Bash • Networking • Git • Docker (hands-on so far, learning AWS & CI/CD next)
 - 📍 **Location**: Remote / Open to Relocation
 - 📧 **Email**: [shahabshaikh70@gmail.com](mailto:shahabshaikh70@gmail.com)
 - 🌐 **GitHub**: [github.com/shahab1729](https://github.com/shahab1729)
@@ -31,21 +31,7 @@ Welcome to my personal DevOps portfolio and interactive web application! I am an
 
 ## 🧪 Featured Hands-on Labs & Projects
 
-### 1. 📦 [Dockerized Full-Stack Application](https://github.com/shahab1729/dockerized-fullstack-app)
-- **Tech Stack**: Docker, Docker Compose, PostgreSQL, Node.js, React, Linux
-- **Key Features**: Multi-stage Docker builds, isolated bridge networking, persistent named volumes for DB safety, and zero-downtime container management.
-
-### 2. ☁️ [AWS DevOps Infrastructure Lab](https://github.com/shahab1729/aws-devops-lab)
-- **Tech Stack**: AWS EC2, EBS, Security Groups, Ubuntu Linux, SSH, Docker
-- **Key Features**: Provisioned Ubuntu instances, restrictive Security Groups (port 22/80/443), custom EBS ext4 filesystem mounts, systemd service daemons.
-
-### 3. 🔀 [Git & GitHub Workflow Lab](https://github.com/shahab1729/git-workflow-lab)
-- **Tech Stack**: Git, GitHub, Bash, Linux
-- **Key Features**: Interactive rebasing (`git rebase -i`), merge conflict resolution simulations, custom pre-commit hooks, and branch protection rules.
-
-### 4. ⚡ [CI/CD Pipeline & GitHub Actions Automation](https://github.com/shahab1729/cicd-pipeline-lab)
-- **Tech Stack**: GitHub Actions, Docker, Bash, YAML, CI/CD
-- **Key Features**: Automated linting and test runs on pull requests, Docker image verification, secret management, and status notifications.
+>  I'm currently building out my hands-on projects and will add them here as they're completed. Check back soon!
 
 ---
 
@@ -56,8 +42,8 @@ Welcome to my personal DevOps portfolio and interactive web application! I am an
 3. **Networking Fundamentals** *(Mastered Basics)* - TCP/IP, DNS, SSH tunneling, firewalls.
 4. **Git & GitHub** *(Mastered Basics)* - Branching models, PR workflows, interactive rebase.
 5. **Docker & Containerization** *(Current Focus)* - Multi-stage builds, Docker Compose, bridge networks.
-6. **Cloud Infrastructure (AWS)** *(Current Focus)* - EC2, EBS, Security Groups, IAM.
-7. **CI/CD Automation** *(Current Focus)* - GitHub Actions workflow pipelines.
+6. **Cloud Infrastructure (AWS)** *(Upcoming Goal)* - EC2, EBS, Security Groups, IAM.
+7. **CI/CD Automation** *(Upcoming Goal)* - GitHub Actions workflow pipelines.
 8. **Kubernetes** *(Upcoming Goal)* - Pods, Deployments, Services, Minikube/K3s.
 9. **Infrastructure as Code** *(Future Goal)* - Declarative IaC with Terraform & Ansible.
 
