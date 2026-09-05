@@ -1,4 +1,4 @@
-# Shahab Shaikh | DevOps Engineer Portfolio
+# Shahab Shaikh | DevOps Portfolio
 
 Welcome to my personal DevOps portfolio and interactive web application! I am an aspiring DevOps Engineer passionate about infrastructure automation, containerization, cloud systems management (AWS), and building reliable CI/CD deployment pipelines.
 
